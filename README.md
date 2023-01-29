@@ -40,3 +40,6 @@ Ce système devra être dupliqué pour le personnel de l’école (professeurs e
 
 Les fonctionnalitées à ajouter sont: le gestion de paie, la gestion de congés, la gestion du parc informatique.
 Après le cahier de charge j'aurai le dictionnaire de données que je mettrai en place, le model conceptuel de données (MCD), le model logique de données (MLD), la création de la base de données, la création des tables, la maquette du site, le développement du site, les tests, le livrable.
+
+Les langages qui seront utilisés: HTML, CSS, Bootstrap, Javascript, PHP, MYSQL, PhpMyAdmin.
+
