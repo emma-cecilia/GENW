@@ -38,7 +38,12 @@ Pour cela, chaque jour la secrétaire indiquera pour chaque apprenant s’il a �
 Le personnel est le seul à avoir accès à cette partie. Il devra pouvoir rechercher un apprenant en particulier, auquel cas il verra le planning de la formation avec en rouge les demi-journées où l’apprenant a été absent. En cliquant sur une demi-journée, il pourra visualiser les détails de l’absence : raison, heure de départ et d’arrivée si absence « courte » (par exemple un aller-retour au Ministère) .
 Ce système devra être dupliqué pour le personnel de l’école (professeurs et personnel administratif) .
 
-Les fonctionnalitées à ajouter sont: le gestion de paie, la gestion de congés, la gestion du parc informatique.
+Gestion	de	paie
+Pour	 chaque	 salarié	 et	 pour	 chaque	 mois,	 la	 direction	 de	 l’école	 pourra	 saisir	 que	 la	
+personne	a	bien	été	payée,	à	quelle	date	et	pour	quel	montant.		Seule	la	direction	aura	
+accès	à	cette	information.
+
+Les fonctionnalitées à ajouter sont: la gestion de congés, la gestion du parc informatique.
 Après le cahier de charge j'aurai le dictionnaire de données que je mettrai en place, le model conceptuel de données (MCD), le model logique de données (MLD), la création de la base de données, la création des tables, la maquette du site, le développement du site, les tests, le livrable.
 
 Les langages qui seront utilisés: HTML, CSS, Bootstrap, Javascript, PHP, MYSQL, PhpMyAdmin.
